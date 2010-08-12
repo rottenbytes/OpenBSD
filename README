@@ -1,5 +1,5 @@
 This is my OpenBSD stuff
 
-- stomp_port : to build a stomp gem package
-- bson_port : to build a bson gem package
-- mongo_port : to build a mongo gem package
+- ruby-stomp : to build a stomp gem package
+- ruby-bson : to build a bson gem package (ruby-mongo needs it)
+- ruby-mongo : to build a mongo gem package
