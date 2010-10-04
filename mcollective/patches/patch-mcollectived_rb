@@ -1,0 +1,9 @@
+$OpenBSD$
+--- mcollectived.rb.orig	Mon Oct  4 13:50:48 2010
++++ mcollectived.rb	Mon Oct  4 14:07:33 2010
+@@ -1,4 +1,4 @@
+-#!/usr/bin/env ruby
++#!/usr/local/bin/ruby
+ 
+ require 'mcollective'
+ require 'getoptlong'

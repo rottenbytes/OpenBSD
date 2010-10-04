@@ -3,3 +3,4 @@ This is my OpenBSD stuff
 - ruby-stomp : to build a stomp gem package
 - ruby-bson : to build a bson gem package (ruby-mongo needs it)
 - ruby-mongo : to build a mongo gem package
+- mcollective : to build the mcollective package
